@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2026 Shenzhen Sudu Electronics Technology Limited
+ * Copyright (c) 2026 Shenzhen Sudo Electronics Technology Limited
  * www.sudotronic.com
  * License: MIT
  */
